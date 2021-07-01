@@ -34,6 +34,9 @@
             <label for = "Document"><b>Document</label>
             <input type ="file" class="form-control" name = "document"><br>
 
+            <label for = "text"><b>text</label>
+                <input type ="text" class="form-control" <br>
+
             <label for="password"><b>Password</b></label>
             <input type= "password" placeholder="Enter Password" class="form-control" name = "password" id="user_pwd"><br>
             <span id="strength_message"></span>
