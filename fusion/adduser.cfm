@@ -34,7 +34,7 @@
             <label for = "Document"><b>Document</label>
             <input type ="file" class="form-control" name = "document"><br>
 
-            <label for = "text"><b>text</label>
+            <label for = "text"><b>text</label><br>
                 <input type ="text" class="form-control" <br>
 
             <label for="password"><b>Password</b></label>
